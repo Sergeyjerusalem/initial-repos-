@@ -45,4 +45,3 @@ fs.remove("/Users/pro/lol/new_folder/filename.txt", err => {
     if (err) return console.error(err)
     console.log('folder2 removed!') 
   });
-console.log("foo");
